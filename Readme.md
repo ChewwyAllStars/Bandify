@@ -34,7 +34,7 @@ This project was realized during **"L'Apothéose"** at [O'Clock](https://oclock.
 
 <br>
 <div align='center'>
-<a href="https://github.com/ChewwyAllStars" target="_blank">
+<a href="https://github.com/JeremyMARQUES1" target="_blank">
 <img src="https://img.shields.io/badge/Jeremy Marques-100000?style=for-the-badge&logo=github&logoColor=whit" />
 </a>
 <a href="https://github.com/amaury-delaroque" target="_blank">
